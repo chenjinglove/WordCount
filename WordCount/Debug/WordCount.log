@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  WordCount.cpp
+c:\users\hp\desktop\软件工程实践作业\wordcount\wordcount\wordcount.cpp(6): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\hp\desktop\软件工程实践作业\wordcount\wordcount\pch.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\hp\desktop\软件工程实践作业\wordcount\wordcount\wordcount.cpp(34): warning C4101: “data”: 未引用的局部变量
+  WordCount.vcxproj -> C:\Users\hp\Desktop\软件工程实践作业\WordCount\Debug\WordCount.exe
